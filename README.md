@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
 <div style="text-align: justify">
- Graduate student at the University of Central Florida, currently working as a research assistant at [UNMD LAB] on data science of intelligent transport systems and autonomous vehicles. 🚓
+ Graduate student at the ⚔️ University of Central Florida⚔️, currently working as a research assistant at<a href="https://www.cecs.ucf.edu/shasan/"> UNMD LAB</a> on data science of intelligent transport systems and autonomous vehicles. 🚓
 </div>
 
 <img align="right" src="https://media.tenor.com/images/529633630a6d8be918a2d61ab14cb4e0/tenor.gif" width="200"/> <p>
