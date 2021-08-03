@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 <br />
 
 
-![alt text](./images/bottom.svg)
+![alt text](./Images/bottom.svg)
 
