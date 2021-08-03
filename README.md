@@ -1,35 +1,21 @@
-# ZaheenSyed
- Biograpghy
-
  ![alt text](./Images/Welcome.png)
 
-I  am working my way up to become a data Scientist and my area of research interest is intelligent Transport system. 
+###**EXECUTIVE SUMMARY**
+![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
+<div style="text-align: justify">
+ Graduate student at the University of Central Florida, currently working as a research assistant at [UNMD LAB] on data science of intelligent transport systems and autonomous vehicles. 🚓
+</div>
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.tenor.com/images/529633630a6d8be918a2d61ab14cb4e0/tenor.gif" width="200"/> <p>
+<div style="text-align: justify">
+Previously worked in Huawei Technologies as project control manager for wireless and software products.</p>
+Completed B.Sc. in Electrical and Electronic Engineering from <a href="https://www.iutoic-dhaka.edu">I.U.T</a>.
+My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🤔 I’m currently learning python and mathematics required for ML and Data Science.
-- :pencil2: follow me in linkedin where I try to share my thoughts.
-- :musical_note: 
-
-
-### Let's Connect :connect:
+###Let's Connect :telephone:
 <p align="center">
-	<a href="https://github.com/zaheenSyed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<><a href="https://github.com/zaheenSyed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> <  >
+	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> <>
     <!--
 	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
@@ -37,29 +23,122 @@ Here are some ideas to get you started:
     -->
 </p>
 
-### Languages and Tools:
+<!-- languages -->
+### My Speciality: 
+| Data science :bar_chart:| Wireless Network :satellite: | Internet of things:globe_with_meridians:|Robotics :video_game: 🤖|
+|--------|------|------|-------|
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-<br />
-<br />
 
-### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<!-- languages -->
+###Languages: 
+<img align="right" border= true src="https://media.tenor.com/images/0799eab3543505117564825efcc03ef3/tenor.gif" width="140"/>
 
+ 1. **python** [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+ 2. **MATLAB**[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
+ 3. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
+ 4. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
+ 4. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+
+### Tools and Software :
+- **vs code**[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="asddasdasdad"/>][VS code]
+- **Jupyter Notebook**[<img align="left" alt="jupyter notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>][jupyter]
+- **mySQL**[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+- **git**[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+- **github** [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+- **terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+- *Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+- **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
+- **OMNET**[<img align="left" alt="SUMO" width="26px" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"/>][OMNET]
+- **EXCEL**[<img align="left" alt="EXCEL" width="26px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s"/>](office.com)
+
+***Interested and learning in progress (essentials for web development) :***
+<p align="center">
+<img align="center" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="center" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="center" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="center" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> <img align="center" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
 <br />
+</p>
 
+### Publication: 
+<p align="center">
+<img align="center" alt="google scholar" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /><a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"> Visit google scholar</a>
+
+</p>
+
+###Research Topics:
+I am interested to work on the following topics. 
+- Intelligent Transport system
+- Traffic control modelling
+- Autonomous vehicle communication
+- Wireless communication
+- NB IOT and m2m Communication
+- V2X technology
+- 5G
+- Networking
+
+
+
+⚡ ***Fun fact***:
+
+- 👯 I’m looking to collaborate on projects that are using Python.
+- 🤔 I’m currently learning python and mathematics required for ML and Data Science. 
+- :pencil2: Lately I discovered that blogging and writing articles are great for learning. 
+- :musical_note: THere are two ways to do boring job done: music and automation.
+- :pray: Anyone working with SUMO and OMNET, please share your work.
 
 ![alt text](./Images/bottom.svg)
 
+[UNMD LAB]:https://www.cecs.ucf.edu/shasan/
+
+[python]: https://www.python.org/
+[VS code]: https://code.visualstudio.com/
+[python]: https://github.com/topics/python
+[MATLAB]: https://github.com/topics/matlab
+[HTML]: https://github.com/topics/html
+[SQL]: https://github.com/topics/sql
+[mysql]:https://github.com/topics/mysql
+[git]: https://github.com/topics/git
+[github]: https://github.com/topics/github
+[terminal]: https://github.com/topics/terminal
+[linux]:https://github.com/topics/linux
+[markdown]:https://github.com/topics/markdown
+[jupyter]:https://github.com/topics/jupyter-notebook
+[sumo]: https://www.eclipse.org/sumo/
+[OMNET]: https://omnetpp.org/
+[google scholar]: https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en
+
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZaheenSyed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zaheen's Github Stats">
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaheenSyed&show_icons=true&locale=en&layout=compact&theme=chartreuse" alt="ovi" /></p>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+<img align="center" src="https://media.tenor.com/images/ce92d5ecdacc2a2d1dd35d321d1f1213/tenor.gif" width="200"/>
+
+<details>
+<summary> Thanks in details </summary>
+<img src="https://media1.tenor.com/images/be777070a265fe49072ee7fd539526fa/tenor.gif?itemid=13927171" width="200"/>
+
+<p align="center"> 
+  <i><b>Want to play?</b></i><br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+</p>
+</details>
+<!-- THIS PART TEACH ME TO HOW TO MAKE DROP DOWN -->
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100"/>
+
+</samp>
+</details>
