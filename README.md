@@ -32,7 +32,8 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 
 <!-- languages -->
-###Languages: 
+### Languages: 
+	
 <img align="right" border= true src="https://media.tenor.com/images/0799eab3543505117564825efcc03ef3/tenor.gif" width="140"/>
 
  1. **python** [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -48,8 +49,9 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - **git**[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 - **github** [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 - **terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-- *Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+- **Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 - **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
+	
 - **OMNET**[<img align="left" alt="SUMO" width="26px" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"/>][OMNET]
 - **EXCEL**[<img align="left" alt="EXCEL" width="26px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s"/>](office.com)
 
