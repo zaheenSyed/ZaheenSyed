@@ -1,6 +1,7 @@
  ![alt text](./Images/Welcome.png)
 
-###**EXECUTIVE SUMMARY**
+### **EXECUTIVE SUMMARY**
+
 ![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
 <div style="text-align: justify">
  Graduate student at the University of Central Florida, currently working as a research assistant at [UNMD LAB] on data science of intelligent transport systems and autonomous vehicles. 🚓
@@ -12,7 +13,7 @@ Previously worked in Huawei Technologies as project control manager for wireless
 Completed B.Sc. in Electrical and Electronic Engineering from <a href="https://www.iutoic-dhaka.edu">I.U.T</a>.
 My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>. 
 
-###Let's Connect :telephone:
+### Let's Connect :telephone:
 <p align="center">
 	<><a href="https://github.com/zaheenSyed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> <  >
 	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> <>
@@ -65,7 +66,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 </p>
 
-###Research Topics:
+### Research Topics:
 I am interested to work on the following topics. 
 - Intelligent Transport system
 - Traffic control modelling
@@ -119,7 +120,7 @@ I am interested to work on the following topics.
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-<img align="center" src="https://media.tenor.com/images/ce92d5ecdacc2a2d1dd35d321d1f1213/tenor.gif" width="200"/>
+<p><img align="center" src="https://media.tenor.com/images/ce92d5ecdacc2a2d1dd35d321d1f1213/tenor.gif" width="250"/></p>
 
 <details>
 <summary> Thanks in details </summary>
