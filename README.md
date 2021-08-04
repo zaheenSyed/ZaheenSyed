@@ -1,8 +1,8 @@
  <!-- ![alt text](./Images/Welcome4.gif) -->
  
- [<p align="center"><img align="center" src="./Images/Welcome4.gif" height="200" width="450"/></p>](#executive-summary)
+ [<p align="center"><img align="center" src="./Images/Welcome4.gif" height="300" width="550"/></p>](#executive-summary)
 
-###**EXECUTIVE SUMMARY**
+### **EXECUTIVE SUMMARY**
 
 ![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
 <div style="text-align: justify">
