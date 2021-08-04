@@ -13,7 +13,7 @@
 <div style="text-align: justify">
 Previously worked in Huawei Technologies as project control manager for wireless and software products.</p>
 Completed B.Sc. in Electrical and Electronic Engineering from <a href="https://www.iutoic-dhaka.edu">I.U.T</a>.
-My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>.
+My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>. </div>
 
 📬 IF you want to discuss something, [***post here.***](https://github.com/zaheenSyed/ZaheenSyed/discussions)
 
