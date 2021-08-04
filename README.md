@@ -1,4 +1,4 @@
- ![alt text](./Images/Welcome.png)
+ ![alt text](./Images/Welcome4.gif)
 
 ### **EXECUTIVE SUMMARY**
 
