@@ -1,6 +1,6 @@
  <!-- ![alt text](./Images/Welcome4.gif) -->
  
- [<p align="center"><img align="center" src="./Images/Welcome4.gif" height="300" width="550"/></p>](#executive-summary)
+ [<p align="center"><img align="center" src="./Images/Welcome4.gif" height="350" width="800px"/></p>](#executive-summary)
 
 ### **EXECUTIVE SUMMARY**
 
