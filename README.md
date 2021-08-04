@@ -1,4 +1,5 @@
- ![alt text](./Images/Welcome4.gif)
+ <!-- ![alt text](./Images/Welcome4.gif) -->
+ [<img align="center" src="./Images/Welcome4.gif" height="150" width="450"/>](#executive-summary)
 
 ### **EXECUTIVE SUMMARY**
 
