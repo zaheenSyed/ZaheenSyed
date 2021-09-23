@@ -114,6 +114,7 @@ I am interested to work on the following topics.
 [OMNET]: https://omnetpp.org/
 [google scholar]: https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en
 
+<!--
 
 <div align="center">
 
@@ -149,3 +150,5 @@ I am interested to work on the following topics.
 
 </samp>
 </details>
+
+--/>
