@@ -36,28 +36,30 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 
 <!-- languages -->
-### Languages: 
+### Languages:                                                      
 	
 <img align="right" border= true src="https://media.tenor.com/images/0799eab3543505117564825efcc03ef3/tenor.gif" width="140"/>
 
  1. **python** [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
- 2. **MATLAB**[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
- 3. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
- 4. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
- 4. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+2. **R** [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+	
+ 3. **MATLAB**[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
+ 4. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
+ 5. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
+ 6. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
-### Tools and Software :
+  ### Tools and Software :
 - **vs code**[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="asddasdasdad"/>][VS code]
 - **Jupyter Notebook**[<img align="left" alt="jupyter notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>][jupyter]
 - **mySQL**[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 - **git**[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-- **github** [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 - **terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 - **Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 - **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
 	
 - **OMNET**[<img align="left" alt="SUMO" width="26px" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"/>][OMNET]
 - **EXCEL**[<img align="left" alt="EXCEL" width="26px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s"/>](office.com)
+- **PowerBI** [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/80px-Power_BI_logo.svg.png" />][BI]
 
 ***Interested and learning in progress (essentials for web development) :***
 <p align="center">
@@ -98,6 +100,7 @@ I am interested to work on the following topics.
 [UNMD LAB]:https://www.cecs.ucf.edu/shasan/
 
 [python]: https://www.python.org/
+[R]: https://www.r-project.org/
 [VS code]: https://code.visualstudio.com/
 [python]: https://github.com/topics/python
 [MATLAB]: https://github.com/topics/matlab
@@ -105,7 +108,7 @@ I am interested to work on the following topics.
 [SQL]: https://github.com/topics/sql
 [mysql]:https://github.com/topics/mysql
 [git]: https://github.com/topics/git
-[github]: https://github.com/topics/github
+[BI]: https://docs.microsoft.com/en-us/power-bi/
 [terminal]: https://github.com/topics/terminal
 [linux]:https://github.com/topics/linux
 [markdown]:https://github.com/topics/markdown
