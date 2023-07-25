@@ -30,8 +30,8 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 <!-- languages -->
 ### My Speciality: 
-| Data science :bar_chart:| Wireless Network :satellite: | Internet of things:globe_with_meridians:|Robotics :video_game: 🤖|
-|--------|------|------|-------|
+| Machine Learning 💻:| Wireless Network :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Data Science📊:|
+|--------|------|------|-------|----------|
 
 
 
