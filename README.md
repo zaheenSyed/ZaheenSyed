@@ -1,6 +1,6 @@
  <!-- ![alt text](./Images/Welcome4.gif) -->
  
- [<p align="center"><img align="center" src="./Images/Welcome4.gif" height="350" width="800px"/></p>](#executive-summary)
+ [<p align="center"><img align="center" src="./Images/Zaheen_text.jpg" height="350" width="800px"/></p>](#executive-summary)
 
 ### **EXECUTIVE SUMMARY**
 
