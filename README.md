@@ -1,6 +1,6 @@
- <!-- ![alt text](./Images/Welcome4.gif) -->
+ <!-- ![alt text](./Images/syed_intro.gif) -->
  
- [<p align="center"><img align="center" src="./Images/text.gif" height="200" width="800px"/></p>](#executive-summary)
+ [<p align="center"><img align="center" src="./Images/syed_intro.gif" height="400" width="800px"/></p>](#executive-summary)
 
 ### **EXECUTIVE SUMMARY**
 
@@ -30,7 +30,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 <!-- languages -->
 ### My Speciality: 
-| Embedded System 💻:| Wireless Communication :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Machine Learning📊:|
+| Embedded Systems 💻:| Wireless Communication :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Machine Learning📊:|
 |--------|------|------|-------|----------|
 
 
@@ -45,10 +45,10 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
  3. **C and C++** [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][C]
 	
  4. **MATLAB**[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
- 5. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
- 6. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
- 7. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
- 8. **Verilog**[<img align="left" alt="Verilog" width="26px" src="./Images/verilog.png" />][Verilog]
+ 5. **Verilog**[<img align="left" alt="Verilog" width="26px" src="./Images/verilog.png"/>][verilog]
+ 6. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
+ 7. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
+ 8. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
   ### Tools and Software :
 - **vs code**[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="asddasdasdad"/>][VS code]
@@ -58,7 +58,8 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - **terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 - **Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 	
-- **OMNET**[<img align="left" alt="SUMO" width="26px" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"/>][OMNET]
+- **OMNET**[<img align="left" alt="SUMO" width="26px" src="./Images/omnet.jpeg"/>][OMNET]
+  
 - **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
 - **EXCEL**[<img align="left" alt="EXCEL" width="26px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s"/>](office.com)
 - **PowerBI** [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/80px-Power_BI_logo.svg.png" />][BI]
@@ -78,9 +79,9 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 ### Research Topics:
 I am interested to work on the following topics. 
-- Intelligent Transport system
-- Traffic control modelling
-- Autonomous vehicle communication
+- Free Space Optical Communication
+- Reinforcement Learning and Deep Neural Netowrk
+- Embedded System
 - Wireless communication
 - NB IOT and m2m Communication
 - V2X technology
@@ -91,11 +92,10 @@ I am interested to work on the following topics.
 
 ⚡ ***Fun fact***:
 
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🤔 I’m currently learning python and mathematics required for ML and Data Science. 
+- 👯 I’m looking to collaborate on embedded system projects.
+- 🤔 Learning is a continuous process and there is no end to. I tend to learn through experience and projects.
 - :pencil2: Lately I discovered that blogging and writing articles are great for learning. 
 - :musical_note: THere are two ways to do boring job done: music and automation.
-- :pray: Anyone working with SUMO and OMNET, please share your work.
 
 ![alt text](./Images/bottom.svg)
 
@@ -109,6 +109,7 @@ I am interested to work on the following topics.
 [MATLAB]: https://github.com/topics/matlab
 [HTML]: https://github.com/topics/html
 [SQL]: https://github.com/topics/sql
+[verilog]: https://github.com/topics/verilog
 [mysql]:https://github.com/topics/mysql
 [git]: https://github.com/topics/git
 [BI]: https://docs.microsoft.com/en-us/power-bi/
