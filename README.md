@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
 <div style="text-align: justify">
- Graduate student at the ⚔️ University of Central Florida⚔️, currently working as a research assistant at<a href="https://www.cecs.ucf.edu/shasan/"> UNMD LAB</a> on data science of intelligent transport systems and autonomous vehicles. 🚓
+ Graduate student at the ⚔️ University of Central Florida⚔️, currently working as a research assistant at<a href="https://nwsl.ece.ucf.edu/"> NWSL LAB</a> on wireless communication, embedded systems and Machine Learning. 🚓
 </div>
 
 <img align="right" src="https://media.tenor.com/images/529633630a6d8be918a2d61ab14cb4e0/tenor.gif" width="200"/> <p>
@@ -30,7 +30,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 <!-- languages -->
 ### My Speciality: 
-| Machine Learning 💻:| Wireless Network :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Data Science📊:|
+| Embedded System 💻:| Wireless Communication :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Machine Learning📊:|
 |--------|------|------|-------|----------|
 
 
@@ -48,6 +48,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
  5. **HTML**[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML]
  6. **markdown**[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] 
  7. **SQL**[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+ 8. **Verilog**[<img align="left" alt="Verilog" width="26px" src="./Images/verilog.png" />][Verilog]
 
   ### Tools and Software :
 - **vs code**[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="asddasdasdad"/>][VS code]
@@ -56,9 +57,9 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - **git**[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 - **terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 - **Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
-- **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
 	
 - **OMNET**[<img align="left" alt="SUMO" width="26px" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"/>][OMNET]
+- **SUMO Software**[<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png"/>][SUMO]
 - **EXCEL**[<img align="left" alt="EXCEL" width="26px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s"/>](office.com)
 - **PowerBI** [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/80px-Power_BI_logo.svg.png" />][BI]
 
