@@ -37,7 +37,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 <!-- languages -->
 ### My Research Interest: 
-| Embedded Systems 💻:| Wireless Communication :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Machine Learning📊:|
+|Machine Learning📊| Wireless Communication|Robotics🤖| Internet of things|Embedded Systems 💻|
 |--------|------|------|-------|----------|
 
 
