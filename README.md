@@ -170,7 +170,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - :pencil2: Lately I discovered that blogging and writing articles are great for learning. 
 - :musical_note: THere are two ways to do boring job done: music and automation. -->
 
-![alt text](./Images/bottom.svg)
+
 
 [UNMD LAB]:https://www.cecs.ucf.edu/shasan/
 
