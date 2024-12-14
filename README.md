@@ -19,28 +19,28 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 📬 IF you want to discuss something, [***post here.***](https://github.com/zaheenSyed/ZaheenSyed/discussions) -->
 
-
-### Let's Connect :telephone:
-<p align="center">
-	<a href="https://zaheensyed.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
-	<a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"><img alt="Google Scholar" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /></a>
-	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-
 <!--   
 <a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
   -->
 
-
-<!-- languages -->
 ### My Research Interest: 
-|Machine Learning📊| Wireless Communication|Robotics🤖| Internet of things|Embedded Systems 💻|
-|--------|------|------|-------|----------|
+- Machine Learning📊
+- Wireless Communication
+- Robotics🤖
+- Internet of things
+- Embedded Systems 💻|
 
 
+<!-- 
+### Let's Connect :telephone:
+<p align="center">
+	<a href="https://zaheensyed.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
+	<a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"><img alt="Google Scholar" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /></a>
+	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+-->
 
 <!-- languages -->
 <!-- ### Skills: 
