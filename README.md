@@ -11,34 +11,39 @@
 
 <img align="right" src="https://media.tenor.com/images/529633630a6d8be918a2d61ab14cb4e0/tenor.gif" width="200"/> <p>
 <div style="text-align: justify">
+
+<!-- 
 Previously worked in Huawei Technologies as project control manager for wireless and software products.</p>
 Completed B.Sc. in Electrical and Electronic Engineering from <a href="https://www.iutoic-dhaka.edu">I.U.T</a>.
 My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>. </div>
 
-📬 IF you want to discuss something, [***post here.***](https://github.com/zaheenSyed/ZaheenSyed/discussions)
+📬 IF you want to discuss something, [***post here.***](https://github.com/zaheenSyed/ZaheenSyed/discussions) -->
+
 
 ### Let's Connect :telephone:
 <p align="center">
-	<a href="https://github.com/zaheenSyed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> <  >
-	<a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"><img alt="google scholar" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /></a>< >
-	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> 
-</p>	
-    <!--
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-    -->
+	<a href="https://zaheensyed.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
+	<a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"><img alt="Google Scholar" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /></a>
+	<a href="https://www.linkedin.com/in/zaheen-e-muktadi-syed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+
+<!--   
+<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  -->
 
 
 <!-- languages -->
-### My Speciality: 
+### My Research Interest: 
 | Embedded Systems 💻:| Wireless Communication :satellite: |Robotics :video_game: 🤖| Internet of things:globe_with_meridians:| Machine Learning📊:|
 |--------|------|------|-------|----------|
 
 
 
 <!-- languages -->
-### Skills: 
+<!-- ### Skills: 
 
 <img align="right" border= true src="https://media.tenor.com/images/0799eab3543505117564825efcc03ef3/tenor.gif" width="300" style="vertical-align:middle;margin:500px 100px">
 
@@ -51,7 +56,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 |5. **Verilog** [<img align="left" alt="Verilog" width="26px" src="./Images/verilog.png" />][verilog]   | - **Terminal** [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 |6. **HTML** [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> ][HTML] | - **Linux** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 |7. **Markdown** [<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> ][markdown] | - **OMNET** [<img align="left" alt="OMNET" width="26px" src="./Images/omnet.jpeg" />][OMNET]
-|8. **SQL** [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]       | - **SUMO Software** [<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png" />][SUMO]|
+|8. **SQL** [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]       | - **SUMO Software** [<img align="left" alt="SUMO" width="26px" src="https://www.dlr.de/fs/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png" />][SUMO]| -->
 
 <!--
  1. **python** [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -79,7 +84,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - **PowerBI** [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/80px-Power_BI_logo.svg.png" />][BI]
 -->
 
-#### Robotics and Embedded Systems:
+<!-- #### Robotics and Embedded Systems:
 
 - Microcontroller and PCB design: Arduino, Raspberry Pi, Protease
 - XILINX FPGA Programming: Verilog
@@ -104,7 +109,7 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 
 #### Computer Vision:
 
-- Applied YoLoV3 and v4 to develop real-time ADAS system for Connected Vehicles.
+- Applied YoLoV3 and v4 to develop real-time ADAS system for Connected Vehicles. -->
 
 <!--
 ***Interested and learning in progress (essentials for web development) :***
@@ -115,13 +120,13 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 </p>
 -->
 
-### Publication: 
+<!-- ### Publication: 
 <p align="center">
 <img align="center" alt="google scholar" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /><a href="https://scholar.google.com/citations?user=IELgvgEAAAAJ&hl=en"> Visit google scholar</a>
 
-</p>
+</p> -->
 
-### PROJECTS
+<!-- ### PROJECTS
 
 #### Robotic Project (2023) 🤖: Real-time Crash and Pedestrian Detection System using Internet of Vehicle.
 
@@ -139,9 +144,9 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - Spearheaded the development of a versatile Mars rover, showcasing expertise in both hardware and software, from Arduino-based programming to PCB design, circuitry, and integrated sensor systems.
 - Designed Robotic Arm with 6 DOF using STM 32 micro-controller and Raspberry Pi for motor control and sensor detection.
 - Developed a 100 m LOS communication setup using 5 GHz IEEE 802.11 standard for real-time video transfer and rover control.
-- Designed custom PCB circuits for power control with buck-boost converter and implemented L298 motor controller.
+- Designed custom PCB circuits for power control with buck-boost converter and implemented L298 motor controller. -->
 
-
+<!-- 
 ### Research Interests:
 
 - **Free Space Optical Communication (FSO) 🌐**: Exploring agile, and robust algorithm to discover and maintain nodes using FSO. 
@@ -151,14 +156,14 @@ My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RO
 - **NB-IoT and M2M Communication 🤖📶**: Investigating Narrowband IoT and Machine-to-Machine communication for efficient data transfer.
 - **V2X Technology 🚗🤝**: Researching Vehicle-to-Everything communication for smarter transportation systems.
 - **5G 📶**: Exploring the next generation of mobile communication technology.
-- **Networking 🌐**: Investigating the structure and function of networks for efficient data transfer.
-
+- **Networking 🌐**: Investigating the structure and function of networks for efficient data transfer. -->
+<!-- 
 ⚡ ***Fun fact***:
 
 - 👯 I’m looking to collaborate on embedded system projects.
 - 🤔 Learning is a continuous process and there is no end to. I tend to learn through experience and projects.
 - :pencil2: Lately I discovered that blogging and writing articles are great for learning. 
-- :musical_note: THere are two ways to do boring job done: music and automation.
+- :musical_note: THere are two ways to do boring job done: music and automation. -->
 
 ![alt text](./Images/bottom.svg)
 
