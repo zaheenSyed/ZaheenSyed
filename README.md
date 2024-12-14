@@ -1,13 +1,18 @@
  <!-- ![alt text](./Images/syed_intro.gif) -->
- 
+ <!--
  [<p align="center"><img align="center" src="./Images/syed_intro.gif" height="400" width="800px"/></p>](#executive-summary)
-
+-->
 ### **EXECUTIVE SUMMARY**
 
 ![](https://komarev.com/ghpvc/?username=ZaheenSyed&style=plastic&label=PROFILE+VIEWS)
 <div style="text-align: justify">
- Graduate student at the ⚔️ University of Central Florida⚔️, currently working as a research assistant at<a href="https://nwsl.ece.ucf.edu/"> NWSL LAB</a> on wireless communication, embedded systems and Machine Learning. 🚓
+ Graduate student at the ⚔️University of Central Florida⚔️, currently working as a research assistant at<a href="https://nwsl.ece.ucf.edu/"> NWSL LAB</a> on wireless communication, embedded systems and Machine Learning. 🚓Pursuing a
+PhD at the forefront of free space optical communication, with a proven track record in enhancing traffic safety through connected and autonomous vehicle technologies.
 </div>
+<div style="text-align: justify">
+Previously worked in Huawei Technologies as project control manager for wireless and software products.
+Completed B.Sc. in Electrical and Electronic Engineering from <a href="https://www.iutoic-dhaka.edu">I.U.T</a>.
+My thesis was on NB IoT and wireless network.I have voluntarily worked at IUT RObotics clubs and was the team lead of IUT MARS ROVER Team Avijatrik<a href="https://www.facebook.com/IUTAvijatrik"> [2018-19]</a>. </div>
 
 <img align="right" src="https://media.tenor.com/images/529633630a6d8be918a2d61ab14cb4e0/tenor.gif" width="200"/> <p>
 <div style="text-align: justify">
